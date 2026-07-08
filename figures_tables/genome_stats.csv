@@ -1,0 +1,21 @@
+"","HD (this study)","HD (Nowak)","HM (Olson)"
+"Scaffolds",7,719,7
+"Total scaffold length (Mb)",186.53,177.07,168.94
+"Average scaffold length (Mb)",26.65,0.25,24.13
+"Scaffold N50 (Mb)",29.25,2.33,25.82
+"Scaffold auN (Mb)",32.95,2.56,30.32
+"Largest scaffold (Mb)",46.41,6.94,43.03
+"Smallest scaffold (bp)",14523,1068,13919
+"Contigs",14,9483,92
+"Total contig length (Mb)",186.53,167.95,162.46
+"Average contig length (Mb)",13.32,0.02,1.77
+"Contig N50 (Mb)",24.71,0.06,5.81
+"Contig auN (Mb)",26.67,0.08,7.31
+"Contig L50",3,781,8
+"Largest contig (Mb)",44.88,0.47,18.15
+"Smallest contig (bp)",14523,1,11617
+"Gaps in scaffolds",7,8764,85
+"Total gap length in scaffolds (bp)",700,9127285,6486653
+"Average gap length in scaffolds (bp)",100,1041.45,76313.56
+"Largest gap in scaffolds (bp)",100,22004,2999979
+"GC content %",36.02,35.25,36.38

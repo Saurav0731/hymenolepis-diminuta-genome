@@ -1,0 +1,59 @@
+==================================================
+file name: HD_genome.fasta          
+sequences:             7
+total length:  186530636 bp  (186529936 bp excl N/X-runs)
+GC level:         36.02 %
+bases masked:   54765485 bp ( 29.36 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        29981     10929791 bp    5.86 %
+   SINEs:             9672      1859652 bp    1.00 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:             3341      1272150 bp    0.68 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex         46         4034 bp    0.00 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B        2806      1062393 bp    0.57 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:     16968      7797989 bp    4.18 %
+     BEL/Pao             0            0 bp    0.00 %
+     Ty1/Copia           0            0 bp    0.00 %
+     Gypsy/DIRS1     13722      6776180 bp    3.63 %
+       Retroviral       16        31393 bp    0.02 %
+
+DNA transposons       7117      4032611 bp    2.16 %
+   hobo-Activator        0            0 bp    0.00 %
+   Tc1-IS630-Pogo     4892      3491557 bp    1.87 %
+   En-Spm                0            0 bp    0.00 %
+   MULE-MuDR             0            0 bp    0.00 %
+   PiggyBac           2037       462958 bp    0.25 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles          0            0 bp    0.00 %
+
+Unclassified:       163528     37437857 bp   20.07 %
+
+Total interspersed repeats:    52400259 bp   28.09 %
+
+
+Small RNA:            9516      2067109 bp    1.11 %
+
+Satellites:            104       173235 bp    0.09 %
+Simple repeats:      32349      1470184 bp    0.79 %
+Low complexity:       4613       225304 bp    0.12 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.4 , default mode
+                                        
+run with rmblastn version 2.13.0+
+The query was compared to classified sequences in "H_diminuta-families.fa"
+FamDB: 

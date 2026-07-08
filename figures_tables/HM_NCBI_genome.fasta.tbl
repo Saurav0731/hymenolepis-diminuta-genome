@@ -1,0 +1,59 @@
+==================================================
+file name: HM_NCBI_genome.fasta     
+sequences:             7
+total length:  168943216 bp  (162456570 bp excl N/X-runs)
+GC level:         36.38 %
+bases masked:   34890085 bp ( 20.65 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        14374      5254473 bp    3.11 %
+   SINEs:             1654       197813 bp    0.12 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:             5563      2020621 bp    1.20 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey     538       146238 bp    0.09 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B         231        38686 bp    0.02 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      7157      3036039 bp    1.80 %
+     BEL/Pao             0            0 bp    0.00 %
+     Ty1/Copia           0            0 bp    0.00 %
+     Gypsy/DIRS1      5933      2696183 bp    1.60 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons       9769      3769860 bp    2.23 %
+   hobo-Activator        0            0 bp    0.00 %
+   Tc1-IS630-Pogo     9398      3605008 bp    2.13 %
+   En-Spm                0            0 bp    0.00 %
+   MULE-MuDR             0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles          0            0 bp    0.00 %
+
+Unclassified:        84362     23732282 bp   14.05 %
+
+Total interspersed repeats:    32756615 bp   19.39 %
+
+
+Small RNA:            2955       902084 bp    0.53 %
+
+Satellites:            104        81346 bp    0.05 %
+Simple repeats:      27187      1055135 bp    0.62 %
+Low complexity:       4379       197111 bp    0.12 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.4 , default mode
+                                        
+run with rmblastn version 2.13.0+
+The query was compared to classified sequences in "H_microstoma-families.fa"
+FamDB: 

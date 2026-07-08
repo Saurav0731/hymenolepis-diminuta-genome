@@ -1,0 +1,15 @@
+name: tidk_env
+channels:
+  - bioconda
+  - defaults
+  - conda-forge
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=1_gnu
+  - ca-certificates=2025.8.3=hbd8a1cb_0
+  - libgcc=15.1.0=h767d61c_4
+  - libgomp=15.1.0=h767d61c_4
+  - libstdcxx=15.1.0=h8f9b012_4
+  - openssl=3.5.2=h26f9b46_0
+  - tidk=0.2.65=h3dc2dae_0
+prefix: /home/skc49482/.conda/envs/tidk_env
